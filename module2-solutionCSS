@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 50px
+}
+
+
+h1 {
+  text-align: center;
+}
+
+div {
+  background-color: #00FFFF;
+}
+p {
+  width: 25.3%;
+  border: 1px solid black;
+  float: left;
+  padding: 10px;
+  margin-right:20px;
+  
+}
+
+#p1 {
+  background-color: #1a24cf;
+}
+#p2 {
+  background-color: #cd5ec7;
+}
+ #p3 {
+  background-color: #12cf74;
+   
+   
+}
+
+section {
+  clear: left;
+}
+
